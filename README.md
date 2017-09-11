@@ -6,6 +6,8 @@ The Energy Information System (EIS) Quality Assurance Dashboard is designed to f
 
 ## Getting Started
 
+A detailed explination of how to import and run the Node-RED flows can be found in the [Wiki](https://github.com/oscarechobravo/eis-dashboard/wiki/Setting-up-the-Flows)
+
 ### Installation
 
 Full Node-RED 'Getting Started' Documentation can be found [here](https://nodered.org/#get-started). For most users, simply [installing Node.js](https://nodejs.org/en/) before running `npm install -g --unsafe-perm node-red` in the command line, will install Node-RED. Node-RED can be run by entering `node-red` into the command line, then navigating to [localhost:1880](http://127.0.0.1:1880) in your browser.
